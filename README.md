@@ -1,3 +1,3 @@
 # html-emails
 
-https://practice-full-stack.github.io/html-emails/
+https://practice-front-end.github.io/html-emails/
